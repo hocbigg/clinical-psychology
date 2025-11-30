@@ -1,81 +1,218 @@
-# Clinical Psychology
+<div align="center" style="text-align: center">
+<img src="images/logo.webp" alt=""/>
+<h3>Hocbigg - Clinical Psychology</h3>
+<p>
+Path to a free self-taught education in Clinical Psychology!
+</p>
+</div>
 
-🎓 Path to a free self-taught education in Clinical Psychology!
+# Contents
 
-## Contents
-
+- [Summary](#summary)
+- [Community](#community)
 - [Curriculum](#curriculum)
-- [License](#license)
+- [Code of conduct](#code-of-conduct)
 
-## Curriculum
+# Summary
 
-The curriculum is separated into 4 parts:
+The Clinical Psychology curriculum is a **complete education in Clinical Psychology** using online materials.
 
-- [Foundation](#foundation)
+When there are courses or books that don't fit into the curriculum but are otherwise of high quality,
+they belong in [extras/courses](extras/courses.md) or [extras/readings](extras/readings.md).
+
+# Organization
+
+- **Intro Clinical Psychology**: Orientation to psychology as a science, the clinical subfield, and essential academic skills.
+- **Core Clinical Psychology**: Foundational coursework covering psychological science, psychopathology, assessment, statistics, neuroscience, development, social foundations, and ethics.
+- **Advanced Clinical Psychology**: Domain-focused upper-level electives organized into several specialization tracks.
+- **Final Project**: A capstone research or applied project demonstrating integrative knowledge.
+
+**Duration**. **1–2 years** at **~20 hours/week** (40–50 learning weeks/year). The roadmap below is sequenced for sustainability, but you can slow down or accelerate as needed.
+
+**Process**. Students can work through the curriculum alone or in groups, in order or out of order.
+
+- We recommend doing all courses in **Core**, only skipping a course when you are certain that you've already learned the material previously.
+- For simplicity, we recommend working through courses (especially Core) in order from top to bottom. Some students choose to study multiple courses at a time in order to vary the material they are working on in a day/week. A popular option is to take the math courses in parallel with the introductory courses. Course prerequisites are listed to help you determine if you are prepared for a given course.
+- Courses in Advanced are electives. Choose one subject you want to become an expert in and take all the courses under that heading.
+
+**[How to contribute](CONTRIBUTING.md)**
+
+# Curriculum
+
+- [Intro Clinical Psychology](#intro-clinical-psychology)
 - [Core Clinical Psychology](#core-clinical-psychology)
-- [Developmental & Specialized](#developmental--specialized)
-- [Research & Capstone Project](#research--capstone-project)
+    - [Core Foundations](#core-foundations)
+    - [Clinical & Assessment Foundations](#clinical--assessment-foundations)
+    - [Research Methods & Statistics Full Undergraduate Depth](#research-methods--statistics-full-undergraduate-depth)
+    - [Ethics, Diversity, and Professional Practice](#ethics-diversity-and-professional-practice)
+- [Advanced Clinical Psychology](#advanced-clinical-psychology)
+    - [Track 1: Evidence-Based Psychotherapy](#track-1-evidence-based-psychotherapy)
+    - [Track 2: Trauma & Crisis Psychology](#track-2-trauma--crisis-psychology)
+    - [Track 3: Neuroscience & Clinical Applications](#track-3-neuroscience--clinical-applications)
+    - [Track 4: Developmental & Family Clinical Science](#track-4-developmental--family-clinical-science)
+- [Final Project Capstone](#final-project-capstone)
 
-### Foundation
+## Intro Clinical Psychology
 
-Master basic concepts in psychology, scientific research, and statistical methods.
+These courses introduce the learner to the field, research literacy, and college-level study habits.
 
-| Course | Content | Materials/Books | Online Courses |
-| :---: | :---: | :---: | :---: | 
-| 1. Introduction to Psychology | History, fields, subdisciplines, key concepts | - *Psychology, 12th Edition* – David Myers <br> - [OpenStax Psychology (Free PDF)](https://openstax.org/details/books/psychology) | - [MIT OCW: Introduction to Psychology](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-00sc-introduction-to-psychology-fall-2011/index.htm) |
-| 2. Statistics & Research Methods | Basic statistics, data analysis, research design, clinical research methods | - *Discovering Statistics Using IBM SPSS Statistics* – Andy Field <br> - *Research Methods in Psychology* – Beth Morling | - [Coursera: Introduction to Statistics](https://www.coursera.org/learn/statistics) <br> - [MIT OCW: Research Methods in Psychology](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-19-research-methods-in-psychology-spring-2012/) |
-| 3. Biopsychology / Brain & Behavior | Nervous system, brain, hormones, behavioral neuroscience | - *Biopsychology, 10th Edition* – John P.J. Pinel | - [MIT OCW: Brain and Behavior](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-00sc-introduction-to-psychology-fall-2011/) |
+| Courses | Duration | Effort | Prerequisites | Notes |
+| :------------------------------------------------------------------------------------------------------------------------------------------------ | :--------: | :------------: | :-----------: | :------------------------------------------------------------------------------------ |
+| [Introduction to Psychology (Yale OYC)](https://oyc.yale.edu/psychology/psyc-110) | 15 weeks | 6–8 h/wk | none | Classic full-length intro course. Strong foundations. |
+| [Statistical Thinking for Data Science and Analytics (edX, Columbia)](https://www.edx.org/course/statistical-thinking-data-science-and-analytics) | 5 weeks | 7–10 h/wk | none | Gentle intro to statistical reasoning; essential for later coursework. |
+| [Research Methods in Psychology (MIT OCW 9.00SC unit)](https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/) | self-paced | ~10–12 h total | none | Included within MIT’s Intro Psych; extracted unit focusing on design, bias, validity. |
+| [The Science of Well-Being (Yale / Coursera)](https://www.coursera.org/learn/the-science-of-well-being) | 10 weeks | 3–5 h/wk | none | Helps develop reflective study habits; optional but recommended. |
 
-**Parallel practice:**
+---
 
-* Do basic SPSS or R exercises for data analysis.
-* Watch videos on neurophysiology (e.g., [Khan Academy Neuroscience](https://www.khanacademy.org/science/health-and-medicine/nervous-system)).
+## Core Clinical Psychology
 
+This section mirrors the first 2–3 years of an undergraduate psychology major with a clinical focus.
 
-### Core Clinical Psychology
+### Core Foundations
 
-Understand common mental disorders, assessment techniques, and professional ethics.
+| Courses | Duration | Effort | Prerequisites | Notes |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :----------: | :-----------: | :------------------------------------------------------- |
+| [Social Psychology (Wesleyan / Coursera)](https://www.coursera.org/learn/social-psychology) | 6 weeks | 6–8 h/wk | Intro Psych | Strong behavioral foundations. |
+| [Introduction to Neuroscience (Harvard X “Fundamentals of Neuroscience” full series)](https://online-learning.harvard.edu/series/fundamentals-neuroscience) | 3 courses, 9–18 weeks | ~5 h/wk each | none | Biological bases of behavior; undergraduate-level rigor. |
+| [Cognitive Psychology (MIT OCW 9.65)](https://ocw.mit.edu/courses/9-65-cognitive-processes-fall-2004/) | self-paced | 6–10 h/wk | Intro Psych | High-quality MIT materials. |
+| [Developmental Psychology (MIT OCW 9.85)](https://ocw.mit.edu/courses/9-85-infant-and-child-development-fall-2008/) | self-paced | 6–10 h/wk | Intro Psych | Covers life span foundations. |
+| [Abnormal Psychology (MIT OCW 9.06 / supplemented)](https://ocw.mit.edu/courses/9-06-fundamentals-of-statistics-fall-2016/) | _No full MOOC available_ | 6–10 h/wk | Intro Psych | Use textbook below. |
 
-| Course | Content | Materials/Books | Online Courses |
-| :---: | :---: | :---: | :---: |
-| 1. Adult Psychopathology | Anxiety disorders, depression, schizophrenia, personality disorders | - *Abnormal Psychology, 18th Edition* – Ronald J. Comer <br> - *Essentials of Abnormal Psychology* – V. Mark Durand | - [Coursera: Abnormal Psychology](https://www.coursera.org/learn/abnormal-psychology) |
-| 2. Ethics in Clinical Psychology | Ethical principles, law, patient rights, HIPAA | - *Ethics in Psychology and the Mental Health Professions* – Gerald P. Koocher & Patricia Keith-Spiegel | - [APA Ethics Resources](https://www.apa.org/ethics) |
-| 3. Introduction to Psychotherapy Techniques | CBT, ACT, problem-solving, basic counseling | - *Theory and Practice of Counseling and Psychotherapy* – Gerald Corey | - [Coursera: Psychological First Aid](https://www.coursera.org/learn/psychological-first-aid) |
-| 4. Intellectual Assessment | IQ tests, WAIS, WISC, cognitive ability evaluation | - *Essentials of WISC-V Assessment* – Dawn P. Flanagan | - [MIT OCW: Psychological Assessment](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/) |
-| 5. Personality Assessment | MMPI, Big Five, Rorschach, behavioral assessment methods | - *Handbook of Personality Assessment* – Irving B. Weiner | - [Coursera: Positive Psychiatry and Mental Health](https://www.coursera.org/learn/positive-psychiatry) |
+**Primary textbook (authoritative):**
+• **Barlow & Durand. _Abnormal Psychology_.** Cengage (paid).
+**Open alternative:**
+• _Introduction to Clinical Psychology_, Wikimedia Foundation (free but not at academic depth; use only as supplement).
 
-**Parallel practice:**
+### Clinical & Assessment Foundations
 
-* Watch clinical assessment interview demos on YouTube (e.g., *“Clinical Psychology Assessment Demo”*).
-* Practice writing mock assessment reports based on case studies from books.
+| Courses | Duration | Effort | Prerequisites | Notes |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------: | :------: | :------------------------------: | :---------------------------------------------------- |
+| [Psychological First Aid (Johns Hopkins / Coursera)](https://www.coursera.org/learn/psychological-first-aid) | 7 weeks | 5 h/wk | none | Intro to crisis intervention framework (RAPID model). |
+| [Clinical Psychology (Oxford / Coursera)](https://www.coursera.org/learn/clinical-psychology) | 6 weeks | 4–6 h/wk | Abnormal Psych | Broad intro to clinical science and practice. |
+| [Assessment and Treatment of Psychological Disorders (University of Toronto / Coursera)](https://www.coursera.org/specializations/psychological-disorders) | 3 courses, ~18 weeks | 4–6 h/wk | Abnormal Psych, Research Methods | Excellent undergraduate-level series. |
+| [Personality Psychology (Yale OYC)](https://oyc.yale.edu/psychology/psyc-159) | 18 lectures | ~6 h/wk | Intro Psych | Grounding for clinical formulation. |
 
+### Research Methods & Statistics (Full Undergraduate Depth)
 
-### Developmental & Specialized
+| Courses | Duration | Effort | Prerequisites | Notes |
+| :----------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :-----------: | :-----------: | :------------------------------------------ |
+| [Data Analysis for Life Sciences (HarvardX, full series)](https://www.edx.org/professional-certificate/harvardx-data-analysis-for-life-sciences) | 5 courses | 4–8 h/wk each | Intro Stats | Robust statistical foundations. |
+| [Experimental Design and Analysis (MIT OCW 9.07)](https://ocw.mit.edu/courses/9-07-statistical-phylogenetics-and-molecular-evolution-fall-2014/) | self-paced | 6–10 h/wk | Statistics | Supplement experimental psychology methods. |
 
-Gain knowledge about specific populations, therapy, and psychological interventions.
+**Textbook supplement (if deeper methods desired):**
+• Shadish, Cook, & Campbell. _Experimental and Quasi-Experimental Designs for Generalized Causal Inference_ (gold-standard).
 
-| Course | Content | Materials/Books | Online Courses |
-| :---: | :---: | :---: | :---: | 
-| 1. Developmental Psychopathology | Developmental disorders, ADHD, ASD, child & adolescent psychology | - *Developmental Psychopathology, 3rd Edition* – Cicchetti & Cohen | - [Coursera: Child Development](https://www.coursera.org/learn/child-development) |
-| 2. Geriatric & Women Psychopathology | Depression, dementia, age-related psychological issues | - *Psychopathology in the Elderly* – Graham Stokes | - [Coursera: Positive Psychiatry and Mental Health](https://www.coursera.org/learn/positive-psychiatry) |
-| 3. Medical Psychology | Applications of psychology in physical illness, chronic pain, chronic disease | - *Medical Psychology* – David F. Marks | - [Coursera: Health Psychology](https://www.coursera.org/learn/health-psychology) |
-| 4. Child & Adolescent Psychotherapy | Child CBT, play therapy, basic family therapy | - *Child and Adolescent Therapy: Science and Art* – Jeremy P. Shapiro | - [Coursera: Supporting Children’s Mental Health](https://www.coursera.org/learn/supporting-childrens-mental-health) |
-| 5. Crisis & Group Therapy | Crisis management, group therapy | - *Crisis Intervention Strategies* – Richard K. James | - [Coursera: Psychological First Aid](https://www.coursera.org/learn/psychological-first-aid) |
-| 6. Buddhist Psychotherapy | Mindfulness, meditation, CBT with mindfulness | - *Mindfulness-Based Cognitive Therapy for Depression* – Segal, Williams, Teasdale | - [Coursera: Mindfulness and Well-being](https://www.coursera.org/learn/mindfulness-well-being) |
+### Ethics, Diversity, and Professional Practice
 
-**Parallel practice:**
+| Courses | Duration | Effort | Prerequisites | Notes |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------: | :------: | :-----------: | :--------------------------------------------------------- |
+| [Justice (Harvard)](https://online-learning.harvard.edu/course/justice) | 12 weeks | 3–5 h/wk | none | Ethical reasoning foundations. |
+| [Health Equity and Social Justice (Johns Hopkins / Coursera)](https://www.coursera.org/learn/health-equity-social-justice) | 4 weeks | 2–4 h/wk | none | Cultural competence. |
+| [Bioethics: The Law, Medicine, and Ethics of Reproductive Technologies and Genetics (Harvard)](https://online-learning.harvard.edu/course/bioethics-law-medicine-and-ethics) | 12 weeks | 5 h/wk | none | General ethical grounding; substitute for APA Ethics Code. |
 
-* Create mock case studies for child or group therapy.
-* Join online workshops on CBT, Mindfulness, or Play Therapy.
+---
 
-### Research & Capstone Project
+## Advanced Clinical Psychology
 
-Get hands-on experience with scientific research in clinical psychology, from design to data collection and reporting.
+Choose **one** track and complete all required courses. Learners can take electives from other tracks.
 
-| Activity | Content | Materials/Books |
-| :---: | :---: | :---: | 
-| Mini Research Project | Select a mental disorder topic, conduct a survey/observation, analyze data | - *Research Methods in Psychology* – Beth Morling <br> - *Discovering Statistics Using IBM SPSS Statistics* – Andy Field |
-| Research Report | Write an APA-style report, present results & discussion | - [APA Publication Manual 7th Edition](https://apastyle.apa.org/) |
+### Track 1: **Evidence-Based Psychotherapy**
 
-## License
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+| Courses | Duration | Effort | Prerequisites | Notes |
+| :-------------------------------------------------------------------------------------------------------------------------------- | :------: | :------: | :-----------: | :---------------------------------- |
+| [Introduction to Clinical Psychology (Coursera)](https://www.coursera.org/learn/clinical-psychology) | 6 weeks | 4–6 h/wk | Core | Overview of clinical science. |
+| [Positive Psychiatry and Mental Health (Univ. of Sydney / Coursera)](https://www.coursera.org/learn/positive-psychiatry) | 5 weeks | 3–5 h/wk | Abnormal | Clinical interventions orientation. |
+| [Major Depression in the Population (Johns Hopkins / Coursera)](https://www.coursera.org/learn/depression-in-the-population) | 7 weeks | 3–4 h/wk | Core | Epidemiology + clinical relevance. |
+| **Textbook (authoritative):** | | | | |
+| • **David H. Barlow, ed. _Clinical Handbook of Psychological Disorders_.** Required reading for evidence-based practice training. | | | | |
+
+---
+
+### Track 2: **Trauma & Crisis Psychology**
+
+| Courses | Duration | Effort | Prerequisites | Notes |
+| :------------------------------------------------------------------------------------------------------------ | :------: | :------: | :-----------: | :-------------------- |
+| [Psychological First Aid (JHU)](https://www.coursera.org/learn/psychological-first-aid) | 7 weeks | 5 h/wk | none | Core crisis model. |
+| [Resilience in Children Exposed to Trauma (Coursera)](https://www.coursera.org/learn/child-resilience-trauma) | 7 weeks | 4–6 h/wk | Developmental | Child-focused trauma. |
+| **Textbook:** | | | | |
+| • Judith Herman. _Trauma and Recovery_ (classic). | | | | |
+| • Courtois & Ford (eds.). _Treating Complex Traumatic Stress Disorders_ (advanced). | | | | |
+
+---
+
+### Track 3: **Neuroscience & Clinical Applications**
+
+| Courses | Duration | Effort | Prerequisites | Notes |
+| :--------------------------------------------------------------------------------------------------------------------------- | :--------: | :-------: | :-----------: | :------------------------------------ |
+| [Fundamentals of Neuroscience (HarvardX, full series)](https://online-learning.harvard.edu/series/fundamentals-neuroscience) | — | — | Core | Already in Core; continue with… |
+| [Medical Neuroscience (Duke / Coursera)](https://www.coursera.org/learn/medical-neuroscience) | 12 weeks | 6–10 h/wk | Neuro | Highest-depth free neuroscience MOOC. |
+| [Systems Neuroscience (MIT OCW 9.14)](https://ocw.mit.edu/courses/9-14-brains-minds-and-machines-fall-2014/) | self-paced | 6–10 h/wk | Neuro | Elective. |
+
+Textbook suggestions:
+• Kandel et al., _Principles of Neural Science_ (authoritative).
+• Purves et al., _Neuroscience_ (excellent undergrad text).
+
+---
+
+### Track 4: **Developmental & Family Clinical Science**
+
+| Courses | Duration | Effort | Prerequisites | Notes |
+| :----------------------------------------------------------------------------------------------------------------------------------- | :-------: | :------: | :-----------: | :-------------------------------- |
+| [Introduction to Family Engagement in Education (HarvardX)](https://pll.harvard.edu/course/introduction-family-engagement-education) | 6 weeks | 3–5 h/wk | none | Helpful for family-systems views. |
+| [Child Development (MIT OCW 9.85)](https://ocw.mit.edu/courses/9-85-infant-and-child-development-fall-2008/) | — | — | Intro Psych | Already in Core; deepen with… |
+| [The Science of Parenting (Coursera)](https://www.coursera.org/specializations/parenting) | 3 courses | 4–5 h/wk | Developmental | Applied developmental psychology. |
+
+Textbook:
+• Patricia Kerig et al., _Developmental Psychopathology_ (authoritative).
+
+---
+
+## Final Project (Capstone)
+
+The capstone demonstrates integrated knowledge. It can be **research-based** or **applied clinical-science** (non-clinical practice, as licensure requires supervision).
+
+### Goals
+
+- Synthesize knowledge from Intro, Core, and Advanced work.
+- Apply scientific reasoning and psychological theory to a topic.
+- Produce a scholarly artifact suitable for peer review or portfolio demonstration.
+
+### Acceptable project types
+
+- A full **research proposal** (Introduction, Literature Review, Methods, Expected Results, Discussion).
+- A **secondary data analysis** using open datasets (e.g., ICPSR, NIH, OpenNeuro).
+- A **case-conceptualization portfolio** (hypothetical cases only).
+- A **systematic mini-review** of evidence-based treatment for a specific disorder.
+- A **public-facing educational resource** grounded in clinical science (website, handbook, curriculum).
+
+### Structure
+
+1. **Proposal (2–3 weeks)**
+Identify topic, research questions, theoretical framework, and justification.
+
+2. **Literature Review (3–4 weeks)**
+Source 15–30 peer-reviewed articles and synthesize them.
+
+3. **Method or Application Design (3–5 weeks)**
+
+- For research: design study, measures, analytic plan.
+- For applied: design case conceptualization, protocols, or resource.
+
+4. **Final Manuscript (3–5 weeks)**
+3,500–6,000 words; APA style recommended.
+
+5. **Peer-Review Simulation (1–2 weeks)**
+Exchange feedback in online forums, Discord communities, or study groups.
+
+## Congratulations
+
+After completing the requirements of the curriculum above,
+you will have completed the equivalent of a full bachelor's degree in Literary Theory.
+Congratulations!
+
+![keep learning](images/keep-learning.webp)
+
+# Code of conduct
+
+[Hocbigg's code of conduct](https://github.com/hocbigg/code-of-conduct).
