@@ -25,11 +25,6 @@ The Psychology curriculum is a **complete education in Psychology** using online
 Note: When there are courses or books that don't fit into the curriculum but are otherwise of high quality,
 they belong in [extras/courses](extras/courses.md), [extras/readings](extras/readings.md) or [extras/other_curricula](extras/other_curricula.md).
 
-**Process**. Students can work through the curriculum alone or in groups, in order or out of order.
-
-- We recommend doing all courses in **Core**, only skipping a course when you are certain that you've already learned the material previously.
-- For simplicity, we recommend working through courses (especially Core) in order from top to bottom. Some students choose to study multiple courses at a time in order to vary the material they are working on in a day/week.
-- The courses in the Advanced section are electives. Choose one track to specialize in and complete all the courses listed under it.
 
 **[How to contribute](/CONTRIBUTING.html)**
 
@@ -57,98 +52,114 @@ they belong in [extras/courses](extras/courses.md), [extras/readings](extras/rea
   - [sciences.social (Mastodon Instance)](https://sciences.social/)
   - [APA Online Communities](https://www.apa.org/members/communities)
 - You can also interact through [GitHub issues](https://github.com/hocbigg/psychology/issues). If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](/CONTRIBUTING.html).
+- Join our Discord server (for discussions around this and other curricula): 
+    
+    [![discord link](/assets/discord.png)](https://discord.gg/KHqAv4Nvm5)
 
 # Curriculum
 
-- [Intro Psychology](#intro-psychology)
-- [Core Psychology](#core-psychology)
-    - [Phase I](#phase-i)
-    - [Phase II](#phase-ii)
-- [Advanced Psychology](#advanced-psychology)
-    - [Clinical Psychology](#clinical-psychology)
-    - [Cognitive Neuroscience](#cognitive-neuroscience)
-    - [Social/Organizational Psychology](#socialorganizational-psychology)
-- [Final Project](#final-project)
+- [I. Foundations of Psychology](#i-foundations-of-psychology)
+- [II. Scientific Tools of Psychology](#ii-scientific-tools-of-psychology)
+- [III. Biological & Perceptual Systems](#iii-biological--perceptual-systems)
+- [IV. Core Cognitive & Learning Systems](#iv-core-cognitive--learning-systems)
+- [V. Development & Motivation](#v-development--motivation)
+- [VI. Personality & Measurement](#vi-personality--measurement)
+- [VII. Social & Cultural Systems](#vii-social--cultural-systems)
+- [VIII. Mental Health & Applied Psychology](#viii-mental-health--applied-psychology)
 
-## Intro Psychology
+## How to use this curriculum
+`
+The following sections form the essential foundation that every psychology student needs:
 
-This phase orients learners to the field, covering broad fundamentals and basic scientific principles. No prerequisites. Focus on building curiosity and basic terminology.
+**I. Foundations of Psychology**  
 
-| Subject | Why study? | Book | Online Course |
-| --- | --- | --- | --- |
-| Introduction to Psychology | Provides an overview of major perspectives, historical context, and subfields, fostering a holistic understanding of human behavior and mental processes. | [*Psychology*](https://www.amazon.com/Psychology-10th-David-G-Myers/dp/1429261781) | [Introduction to Psychology](https://oyc.yale.edu/introduction-psychology/psyc-110) |
-| History and Systems of Psychology | Explores the evolution of psychological thought, helping contextualize modern theories and ethical considerations in the discipline. | [*A History of Psychology*](https://www.amazon.com/History-Psychology-John-G-Benjafield/dp/0199007926) | Covered in [Introduction to Psychology](https://oyc.yale.edu/introduction-psychology/psyc-110) |
+**II. Scientific Tools of Psychology**  
 
-## Core Psychology
+**III. Biological & Perceptual Systems**  
 
-### Phase I
+**IV. Core Cognitive & Learning Systems**  
 
-Builds foundational scientific tools and biological underpinnings. Prerequisite: Completion of "Intro Psychology".
+**V. Development & Motivation**  
 
-| Subject | Why study? | Book | Online Course |
-| --- | --- | --- | --- |
-| Statistics for Psychology | Equips learners with quantitative skills to analyze data, essential for interpreting research and drawing evidence-based conclusions. | [*Statistics for the Behavioral Sciences*](https://www.ndl.ethernet.edu.et/bitstream/123456789/29095/1/Frederick%20J%20Gravetter_2017.pdf) | [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability) |
-| Biological Psychology | Examines the neural and physiological bases of behavior, bridging biology and psychology for understanding brain-behavior relationships. | [*Biological Psychology*](https://godsonug.wordpress.com/wp-content/uploads/2016/09/james-w-kalat-biological-psychology-ninth-edition-wadsworth-publishing-20062-compressed.pdf) | [Human Behavioral Biology](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D) |
+**VII. Social & Cultural Systems**  
 
-### Phase II
+**VIII. Mental Health & Applied Psychology** (especially the Abnormal Psychology part)
 
-Deepens understanding of key psychological domains and research practices. Prerequisites: Core Psychology: Phase I (Statistics for Research Methods; Biological Psychology for Cognitive/Developmental).
+**VI. Personality & Measurement**: This section is **not** required for a solid general understanding of the field.
 
-| Subject | Why study? | Book | Online Course |
-| --- | --- | --- | --- |
-| Research Methods in Psychology | Teaches design, execution, and ethics of experiments and studies, enabling critical evaluation of psychological evidence. | [*Research Methods in Psychology*](https://steladhima.files.wordpress.com/2014/03/john-j-shaughnessy-eugene-b-zechmeister-jeanne-s-zechmeister-research-methods-in-psychology-2012.pdf) | [Introduction to Psychological Research Methods](https://www.edx.org/learn/psychology/the-university-of-queensland-introduction-to-psychological-research-methods) |
-| Cognitive Psychology | Investigates mental processes like perception, memory, and problem-solving, foundational for understanding human cognition. | [*Cognitive Psychology*](https://cs.um.ac.ir/images/87/books/Cognitive%20Psychology_Strenberg%206th%20.pdf) | Covered in [Introduction to Psychology](https://oyc.yale.edu/introduction-psychology/psyc-110) |
-| Developmental Psychology | Traces psychological changes across the lifespan, informing applications in education, parenting, and aging. | [*Lifespan Development*](https://www.amazon.com/Lifespan-Development-7th-Denise-Boyd/dp/0133805662) | Covered in [Introduction to Psychology](https://oyc.yale.edu/introduction-psychology/psyc-110) |
-| Social Psychology | Analyzes how individuals influence and are influenced by others, crucial for understanding group dynamics and societal behaviors. | [*Social Psychology*](https://www.amazon.com/Social-Psychology-10th-Elliot-Aronson/dp/0134641280) | [Social Psychology](https://www.coursera.org/learn/social-psychology) |
-| Personality Psychology | Explores theories of individual differences and traits, aiding in self-awareness and applications in therapy or assessment. | [*Theories of Personality*](https://www.amazon.com/Theories-Personality-Jess-Feist/dp/0077861922) | [Personality Psychology](https://www.youtube.com/playlist?list=PLGg5obNb6tEv-0QymemzLqZjnToWn_0l4) |
-| Abnormal Psychology | Covers mental disorders, their causes, and classifications, providing a basis for empathy and clinical awareness. | [*Abnormal Psychology*](https://sargnaturecure.com/wp-content/uploads/2020/10/comer-abnormal-psychology-8th-txtbk.pdf) | Covered in [Introduction to Psychology](https://oyc.yale.edu/introduction-psychology/psyc-110) |
+# I. Foundations of Psychology
 
-## Advanced Psychology
+> What psychology is, where it came from, and how it thinks.
 
-Offers elective depth through specialization tracks. Learners choose one primary track (e.g., Clinical) but may sample from others. Prerequisites: All Core Phases (Research Methods for all; specific cores like Biological for Neuroscience track).
+| Subject | Book | Course |
+| --- | --- | --- |
+| Introduction to Psychology | [OpenStax – Psychology 2e](https://openstax.org/details/books/psychology-2e) (free web/PDF) | [Yale PSYC 110](https://oyc.yale.edu/introduction-psychology/psyc-110) (full lectures/videos) |
+| History & Systems | [Benjafield – A History of Psychology](https://archive.org/details/historyofpsychol0000benj_w0y8) (free borrowable scan on Internet Archive) | Yale PSYC 110 (historical lectures) |
+| Ethics in Psychology | [APA Ethics Code](https://www.apa.org/ethics/code) + OpenStax Research Ethics | [Noba Ethics Modules](https://nobaproject.com/modules/why-science) (includes ethics in research/science) |
 
-Tracks are defined as follows:
+# II. Scientific Tools of Psychology
 
-- **Clinical Psychology**: Focuses on mental health intervention, assessment, and therapy; ideal for those interested in counseling or psychopathology.
-- **Cognitive Neuroscience**: Emphasizes brain science and advanced cognition; suits interests in research or tech applications like AI-human interaction.
-- **Social/Organizational Psychology**: Targets group and workplace behaviors; applicable to business, policy, or community roles.
+> How psychologists generate and evaluate knowledge.
 
-### Clinical Psychology
+| Subject | Book | Course |
+| --- | --- | --- |
+| Statistics for Psychology | [Gravetter & Wallnau – Statistics for the Behavioral Sciences](https://archive.org/details/statisticsforbeh0000grav_s3u5) (free borrowable scan) | [Khan Academy Statistics](https://www.khanacademy.org/math/statistics-probability) (full free course) |
+| Research Methods | [Shaughnessy et al. – Research Methods in Psychology](https://archive.org/details/researchmethodsi0000shau_10ed) (free borrowable scan) | [edX Introduction to Psychological Research Methods](https://www.edx.org/course/introduction-to-psychological-research-methods) (free to audit) |
 
-| Subject | Why study? | Book | Online Course |
-| --- | --- | --- | --- |
-| Clinical Psychology | Introduces assessment, diagnosis, and treatment of mental disorders, building practical skills for helping professions. | [*Clinical Psychology*](https://dspace.sxcjpr.edu.in/jspui/bitstream/123456789/1059/1/Copy%20of%20Clinical%20Psychology%20-%20Science%2C%20Practice%2C%20and%20Culture.pdf) | [Basics of Clinical Psychology](https://alison.com/course/basics-of-clinical-psychology) |
-| Counseling Psychology | Focuses on therapeutic techniques and client-centered approaches, enhancing interpersonal and empathetic skills. | [*Counseling the Culturally Diverse*](https://www.homeworkforyou.com/static_media/uploadedfiles/1652980640_717852__796..pdf) | [Introduction to Counseling](https://alison.com/course/introduction-to-counseling-revised) |
-| Psychopathology | Deepens analysis of disorders' etiology and treatment, fostering critical thinking in mental health contexts. | [*Psychopathology: Research, Assessment, and Treatment in Clinical Psychology*](https://www.amazon.com/Psychopathology-Research-Assessment-Treatment-Psychology/dp/1119679184) | Covered in [Basics of Clinical Psychology](https://alison.com/course/basics-of-clinical-psychology) |
-| Ethics in Psychology | Examines professional standards and dilemmas, ensuring responsible practice in clinical settings. | [*Ethics in Psychology and the Mental Health Professions*](https://ndl.ethernet.edu.et/bitstream/123456789/58679/1/35.pdf) | [Psychological Research, Obedience and Ethics](https://www.open.edu/openlearn/society-politics-law/sociology/psychological-research-obedience-and-ethics/content-section-0) |
+# III. Biological & Perceptual Systems
 
-### Cognitive Neuroscience
+> How brains produce experience.
 
-| Subject | Why study? | Book | Online Course |
-| --- | --- | --- | --- |
-| Neuroscience | Explores advanced brain structures and functions, integrating with psychological theories for interdisciplinary insights. | [*Neuroscience: Exploring the Brain*](https://seti.net/Neuron%20Lab/NeuronReferences/Neuroscience%20-%20Bear.pdf) | [Introduction to Neuroscience](https://ocw.mit.edu/courses/9-01-introduction-to-neuroscience-fall-2007/) |
-| Sensation and Perception | Studies how sensory input becomes meaningful experience, essential for understanding cognitive biases and illusions. | [*Sensation and Perception*](https://dl.icdst.org/pdfs/files3/d644f7eafa754ae8ecf63f98bc942094.pdf) | [Sensation and Perception](https://www.youtube.com/playlist?list=PLz-pxsFiarvKDxHE3JT0RzSImSVySlkjw) |
-| Neuropsychology | Investigates brain damage effects on behavior, applying knowledge to rehabilitation and cognitive assessment. | [*Fundamentals of Human Neuropsychology*](http://ndl.ethernet.edu.et/bitstream/123456789/64005/1/11.pdf) | [Introduction to Cognitive Psychology and Neuropsychology](https://www.edx.org/learn/cognitive-science/university-of-cambridge-introduction-to-cognitive-psychology-and-neuropsychology) |
-| Learning and Memory | Analyzes mechanisms of acquisition, storage, and retrieval, with applications in education and therapy. | [*Learning and Memory*](http://people.whitman.edu/~herbrawt/classes/390/Gluck%202.pdf) | [Learning and Memory](https://www.futurelearn.com/courses/learning-and-memory) |
+| Subject | Book | Course |
+| --- | --- | --- |
+| Biological Psychology | OpenStax Psychology 2e (Neuroscience chapters) | [Stanford Human Behavioral Biology](https://www.youtube.com/playlist?list=PLqeYp3nxIYpF7dW7qK8OvLsVomHrnYNjD) (full Sapolsky lectures on YouTube) |
+| Sensation & Perception | OpenStax Psychology 2e | [MIT OCW Sensation & Perception](https://ocw.mit.edu/courses/9-35-sensation-and-perception-spring-2009/) (full course materials) |
 
-### Social/Organizational Psychology
+# IV. Core Cognitive & Learning Systems
 
-| Subject | Why study? | Book | Online Course |
-| --- | --- | --- | --- |
-| Industrial-Organizational Psychology | Applies psychology to workplace issues like motivation and leadership, improving organizational effectiveness. | [*Work in the 21st Century: An Introduction to Industrial and Organizational Psychology*](https://ftp.idu.ac.id/wp-content/uploads/ebook/ip/BUKU%20MANAJEMEN%20ORGANISASI/An%20Introduction%20to%20Industrial%20and%20Organizational%20Psychology,%204th%20Edition%20(%20PDFDrive%20).pdf) | [Industrial Psychology](https://www.coursera.org/learn/illinois-tech-industrial-psychology-bit) |
-| Group Dynamics | Examines team interactions and processes, useful for conflict resolution and social influence strategies. | [*Group Dynamics*](https://www.gacbe.ac.in/images/E%20books/Group%20Dynamics%20-%20Ed.%205.pdf) | [Group Dynamics](https://www.youtube.com/playlist?list=PL7xIGdTUcr0ovpgmadXoSPcJ0OrIbdPkH) |
-| Organizational Behavior | Integrates social psychology with management, focusing on culture, change, and performance. | [*Organizational Behavior*](https://121.121.140.173:8887/filesharing/kohasharedfolders/Organizational%20Behavior,%20Global%20Edition%20(Stephen%20Robbins,%20Timothy%20Judge)%20(2024).pdf) |  |
-| Cross-Cultural Psychology | Explores cultural influences on behavior, promoting global awareness in diverse social contexts. | [*Cross-Cultural Psychology: Critical Thinking and Contemporary Applications*](https://gsep.pepperdine.edu/content/faculty/levy_cross_cultural_psychology.pdf) | [Global Impact: Cultural Psychology](https://www.coursera.org/learn/cultural-psychology-globalization) |
+> How minds process information and change.
 
-## Final Project
+| Subject | Book | Course |
+| --- | --- | --- |
+| Cognitive Psychology | [Noba – Cognitive Psychology Collection](https://nobaproject.com/) (browse modules) | Yale Cognition lectures (PSYC 110 subset) |
+| Learning & Conditioning | [Noba – Learning](https://nobaproject.com/modules/conditioning-and-learning) | [MIT OCW Neural Basis of Learning and Memory](https://ocw.mit.edu/courses/9-03-neural-basis-of-learning-and-memory-fall-2007/) (related full course) |
+| Memory & Attention | [Noba – Memory & Attention](https://nobaproject.com/) (related modules) | MIT OCW Cognitive Science |
 
-Synthesizes knowledge through an independent project. Prerequisite: Completion of Advanced Phase.
+# V. Development & Motivation
 
-Focus on applying skills from all prior phases, tailored to the chosen track (e.g., clinical case study for Clinical Psychology).
+> How humans grow and what drives them.
 
-| Subject | Why study? | Book | Online Course |
-| --- | --- | --- | --- |
-| Capstone Project in Psychology | Integrates theory, research, and practice in a culminating work, demonstrating mastery and preparing for real-world applications. | [*Publication Manual of the American Psychological Association*](https://www.amazon.com/Publication-Manual-American-Psychological-Association/dp/1433832178) |  |
+| Subject | Book | Course |
+| --- | --- | --- |
+| Developmental Psychology | OpenStax Psychology 2e (Lifespan) | [Open University Introduction to Child Psychology](https://www.open.edu/openlearn/education-development/childhood-youth/introduction-child-psychology/content-section-0) (free course; extends to lifespan concepts) |
+| Motivation & Emotion | [Noba – Motivation & Emotion](https://nobaproject.com/) (related modules) | [Yale PSYC 110 Emotion Lectures](https://oyc.yale.edu/psychology/psyc-110/lecture-11) (e.g., Emotions Parts I/II) |
+
+# VI. Personality & Measurement
+
+> How people differ and how we measure it.
+
+| Subject | Book | Course |
+| --- | --- | --- |
+| Personality Psychology | [Noba – Personality](https://nobaproject.com/) | YouTube: Personality Theory (APA-aligned) |
+| Psychological Testing | [Noba – Psychological Measurement](https://nobaproject.com/) | Open University Psychometrics |
+
+# VII. Social & Cultural Systems
+
+> How humans influence each other.
+
+| Subject | Book | Course |
+| --- | --- | --- |
+| Social Psychology | [Noba – Social Psychology](https://nobaproject.com/) | Yale SOM Social Psychology |
+| Cultural Psychology | [Noba – Cultural Psychology](https://nobaproject.com/) | MIT OCW Culture & Cognition |
+
+# VIII. Mental Health & Applied Psychology
+
+> When systems break—and how we intervene.
+
+| Subject | Book | Course |
+| --- | --- | --- |
+| Abnormal Psychology | OpenStax Psychology 2e + Noba Abnormal | Yale Psychopathology |
+| Health Psychology | OpenStax Psychology 2e | Stanford Health Psychology |
 
 ## Congratulations
 
